@@ -1,5 +1,5 @@
 # https://youtube.com/playlist?list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn
-# pip install opencv-python v python -m pip install opencv-python
+# pip install opencv-python v python -m pip install opencv-python () # przez pythona gdy pip jest niepoprnwy
 
 import cv2
 
